@@ -1,0 +1,5 @@
+/* Extra polish (kept minimal since Tailwind does most) */
+.app {
+  display: flex;
+  flex-direction: column;
+}
